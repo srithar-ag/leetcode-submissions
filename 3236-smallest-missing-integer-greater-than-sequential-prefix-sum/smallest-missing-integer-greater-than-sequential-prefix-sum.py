@@ -1,6 +1,4 @@
-class Solution:
-    def missingInteger(self, nums: List[int]) -> int:
-        from typing import List
+from typing import List
 from itertools import count
 
 class Solution:
